@@ -18,11 +18,3 @@ def age_appropriate_birthday(birthday_kids)
   else
     puts "You are too old for this."
 end
-
-  # add the code snippet here!
-  winner = ""
-passengers.each do |suite, name|
-  if suite == :suite_a && name.start_with?("A")
-    winner = name
-  end
-end
